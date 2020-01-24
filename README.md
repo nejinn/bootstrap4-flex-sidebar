@@ -17,7 +17,7 @@ you need &需要以下依赖
     "vue": "^2.6.11",
     "vue-router": "^3.1.3",
 ```
-
+![效果](https://github.com/nejinn/bootstrap4-flex-sidebar/blob/master/aside.gif)
 
 ## Project setup
 ```
