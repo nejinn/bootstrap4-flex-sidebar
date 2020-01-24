@@ -17,6 +17,12 @@ you need &需要以下依赖
     "vue": "^2.6.11",
     "vue-router": "^3.1.3",
 ```
+
+if you do not need bootstrap-vue, you can delete bootstrap vue and delete b-nav in sidebarnav and header nav。all b-* component is relative to bootstrap-vue. 
+
+如果你不需要bootstrap-vue，你可以删除左边导航栏和头部导航栏中跟bootstrap-vue有关的组件，一样可以运行，不过你就需要自己写导航栏有关nav item。
+跟bootstrap-vue有关的组件都是b-* 这样的。
+
 ![效果](https://github.com/nejinn/bootstrap4-flex-sidebar/blob/master/aside.gif)
 
 ## Project setup
